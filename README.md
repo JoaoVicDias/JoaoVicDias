@@ -2,7 +2,7 @@
 
 
 
-I was born in Brazil but currently living in the Netherlands.
+I was born in Brazil and live in Rio de Janeiro.
 
 Here are some things I like:
 
