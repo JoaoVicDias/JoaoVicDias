@@ -16,7 +16,7 @@ Here are some things I like:
 
 You can contact me at any time.
 
-- [Linkedin](https://www.linkedin.com/in/jo%C3%A3ovicdias/) 
+- [Linkedin](https://www.linkedin.com/in/joaovicd/) 
 - [Instagram](https://www.instagram.com/joovct/?hl=pt-br)
 - [Facebook](https://www.facebook.com/joao.diasdacosta.7/) 
 
