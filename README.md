@@ -19,6 +19,7 @@ You can contact me at any time.
 - [Linkedin](https://www.linkedin.com/in/joaovicd/) 
 - [Instagram](https://www.instagram.com/joovct/?hl=pt-br)
 - [Facebook](https://www.facebook.com/joao.diasdacosta.7/) 
+- [Portfólio](https://joaovicdias.com/) 
 
 
 
