@@ -1,25 +1,24 @@
-### Hi! I'm João 👋
-
-
-
-I was born in Brazil and live in Rio de Janeiro.
-
-Here are some things I like:
-
-- art 
-- playing games 
-- working out 
-- Science fiction
-- Books
-
-## Find me
-
-You can contact me at any time.
-
-- [Linkedin](https://www.linkedin.com/in/joaovicd/) 
-- [Instagram](https://www.instagram.com/joovct/?hl=pt-br)
-- [Facebook](https://www.facebook.com/joao.diasdacosta.7/) 
-- [Portfólio](https://joaovicdias.com/) 
-
-
-
+## Hi, I'm João Victor, software developer.
+<div align="center">
+  <a href="https://github.com/JoaoVicDias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVicDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVicDias&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/joaovicd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://joaovicdias.com/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-orange?style=for-the-badge" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
